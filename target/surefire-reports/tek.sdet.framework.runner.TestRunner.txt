@@ -1,4 +1,16 @@
 -------------------------------------------------------------------------------
 Test set: tek.sdet.framework.runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.347 s - in tek.sdet.framework.runner.TestRunner
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 38.924 s <<< FAILURE! - in tek.sdet.framework.runner.TestRunner
+Retail Account Page.Verify User can add an Address  Time elapsed: 38.273 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Cannot locate option with text: California
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'MOHAMMAD-ASHRAF', ip: '192.168.1.114', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:151)
+	at tek.sdet.framework.utilities.CommonUtility.selectByVisibleText(CommonUtility.java:101)
+	at tek.sdet.framework.steps.RetailAccountSteps.UserFillNewAddressFormWithBelowInformation(RetailAccountSteps.java:137)
+	at ✽.User fill new address form with below information(classpath:features/RetailAccount.feature:50)
+

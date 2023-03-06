@@ -35,7 +35,7 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(id ="signinLink")
 	public WebElement signInOption;
 	
-	@FindBy(xpath ="//a[text()='Account']")
+	@FindBy(xpath ="//*[@id=\"accountLink\"]")
 	public WebElement accountOption;
 	
 	
@@ -45,6 +45,10 @@ public class RetailHomePage extends BaseSetup {
 	
 	@FindBy(xpath = "//div[@class='sidebar_content-item']//span")
 	public List<WebElement> sideBar;
+	
+	
+	
+
 	
 	
 	
