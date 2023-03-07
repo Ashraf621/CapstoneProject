@@ -1481,3 +1481,27 @@
 2023-03-06 18:02:34,097 [main] INFO logger_File - user fill new address form with below information
 2023-03-06 18:02:34,222 [main] INFO logger_File - User click update Your Address button
 2023-03-06 18:02:35,081 [main] INFO logger_File - Address Updated Successfully
+2023-03-06 18:18:11,435 [main] INFO logger_File - User is on retail website
+2023-03-06 18:18:11,536 [main] INFO logger_File - user clicked on Sign in Option
+2023-03-06 18:18:11,732 [main] INFO logger_File - user entered email and password
+2023-03-06 18:18:11,814 [main] INFO logger_File - user clicked on login button
+2023-03-06 18:18:12,237 [main] INFO logger_File - user is logged in into Account
+2023-03-06 18:18:12,406 [main] INFO logger_File - User click on Account option
+2023-03-06 18:18:12,708 [main] INFO logger_File - User click on remove option of Address section
+2023-03-06 18:18:12,710 [main] INFO logger_File - Then Address details should be removed
+2023-03-06 18:19:14,441 [main] INFO logger_File - User is on retail website
+2023-03-06 18:19:14,554 [main] INFO logger_File - user clicked on Sign in Option
+2023-03-06 18:19:14,798 [main] INFO logger_File - user entered email and password
+2023-03-06 18:19:14,874 [main] INFO logger_File - user clicked on login button
+2023-03-06 18:19:15,334 [main] INFO logger_File - user is logged in into Account
+2023-03-06 18:19:15,445 [main] INFO logger_File - User click on Account option
+2023-03-06 18:19:15,904 [main] INFO logger_File - User click on remove option of Address section
+2023-03-06 18:19:15,905 [main] INFO logger_File - Then Address details should be removed
+2023-03-06 18:19:53,276 [main] INFO logger_File - User is on retail website
+2023-03-06 18:19:53,398 [main] INFO logger_File - user clicked on Sign in Option
+2023-03-06 18:19:53,641 [main] INFO logger_File - user entered email and password
+2023-03-06 18:19:53,725 [main] INFO logger_File - user clicked on login button
+2023-03-06 18:19:54,120 [main] INFO logger_File - user is logged in into Account
+2023-03-06 18:19:54,234 [main] INFO logger_File - User click on Account option
+2023-03-06 18:19:54,559 [main] INFO logger_File - User click on remove option of Address section
+2023-03-06 18:19:59,575 [main] INFO logger_File - Then Address details should be removed

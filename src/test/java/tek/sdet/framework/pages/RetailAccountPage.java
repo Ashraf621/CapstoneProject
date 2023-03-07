@@ -148,6 +148,12 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath ="//div[text()='Address Updated Successfully']")
 	public WebElement AddressUpdatedSuccessfully;
 	
+	// Verify User can remove Address from Account=================================================================
+	
+	@FindBy(xpath ="//button[contains(text(),'Remove')]")
+	public WebElement AddressRemoveBtn;
+	
+	
 	
 	
 	

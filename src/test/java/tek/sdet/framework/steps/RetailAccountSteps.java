@@ -238,7 +238,19 @@ public class RetailAccountSteps extends CommonUtility {
     	    		 Assert.assertTrue(isElementDisplayed(factory.accountPage().AddressUpdatedSuccessfully));
     	    		 logger.info("Address Updated Successfully");
     	    	 }
+    	    	 // Verify User can remove Address from Account=============================================================
     	    	 
+    	    	 @And ("User click on remove option of Address section")
+    	    	 public void UserClickOnRemoveOptionOfAddressSection() throws InterruptedException {
+    	    		 click(factory.accountPage().AddressRemoveBtn);
+    	    		 logger.info("User click on remove option of Address section");
+    	    		 Thread.sleep(5000);
+    	    		
+    	    	 }
+    	    	 @Then ("Address details should be removed")
+    	    	 public void AddressDetailsShouldBeRemoved() {
+    	    		 logger.info("Then Address details should be removed");
+    	    	 }
     	    	    
     	    	}
     	    	

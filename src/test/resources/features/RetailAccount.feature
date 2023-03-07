@@ -62,3 +62,8 @@ Feature: Retail Account Page
       | Afghanistan | Ashraf   |  2792049955 | 3939 marconi Ave |   8 | Kabul | Kabul |   95823 |
     And User click update Your Address button
     Then a message should be displayed 'Address Updated Successfully'
+
+  @RemoveAddress
+  Scenario: Verify User can remove Address from Account
+    And User click on remove option of Address section
+    Then Address details should be removed
