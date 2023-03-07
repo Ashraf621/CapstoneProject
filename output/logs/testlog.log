@@ -1324,3 +1324,160 @@
 2023-03-06 15:00:30,849 - logger_File -INFO - user filled the address form
 2023-03-06 15:00:30,943 - logger_File -INFO - User click Add Your Address button
 2023-03-06 15:00:31,741 - logger_File -INFO - a message should be displayed 'Address Added Successfully'
+2023-03-06 17:12:30,111 - logger_File -INFO - User is on retail website
+2023-03-06 17:12:30,215 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:12:30,399 - logger_File -INFO - user entered email and password
+2023-03-06 17:12:30,461 - logger_File -INFO - user clicked on login button
+2023-03-06 17:12:30,861 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:12:30,954 - logger_File -INFO - User click on Account option
+2023-03-06 17:12:31,401 - logger_File -INFO - user click on edit address option
+2023-03-06 17:14:52,980 - logger_File -INFO - User is on retail website
+2023-03-06 17:14:53,085 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:14:53,289 - logger_File -INFO - user entered email and password
+2023-03-06 17:14:53,356 - logger_File -INFO - user clicked on login button
+2023-03-06 17:14:53,815 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:14:53,917 - logger_File -INFO - User click on Account option
+2023-03-06 17:14:54,436 - logger_File -INFO - user click on edit address option
+2023-03-06 17:16:31,468 - logger_File -INFO - User is on retail website
+2023-03-06 17:16:31,569 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:16:31,767 - logger_File -INFO - user entered email and password
+2023-03-06 17:16:31,830 - logger_File -INFO - user clicked on login button
+2023-03-06 17:16:32,225 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:16:32,327 - logger_File -INFO - User click on Account option
+2023-03-06 17:16:32,726 - logger_File -INFO - user click on edit address option
+2023-03-06 17:16:33,672 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:16:33,759 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:17:47,298 - logger_File -INFO - User is on retail website
+2023-03-06 17:17:47,383 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:17:47,554 - logger_File -INFO - user entered email and password
+2023-03-06 17:17:47,612 - logger_File -INFO - user clicked on login button
+2023-03-06 17:17:48,002 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:17:48,092 - logger_File -INFO - User click on Account option
+2023-03-06 17:17:48,536 - logger_File -INFO - user click on edit address option
+2023-03-06 17:17:49,335 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:17:54,460 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:19:14,674 - logger_File -INFO - User is on retail website
+2023-03-06 17:19:14,764 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:19:14,938 - logger_File -INFO - user entered email and password
+2023-03-06 17:19:14,999 - logger_File -INFO - user clicked on login button
+2023-03-06 17:19:15,464 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:19:15,565 - logger_File -INFO - User click on Account option
+2023-03-06 17:19:16,395 - logger_File -INFO - user click on edit address option
+2023-03-06 17:19:17,228 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:19:22,346 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:21:29,933 - logger_File -INFO - User is on retail website
+2023-03-06 17:21:30,027 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:21:30,211 - logger_File -INFO - user entered email and password
+2023-03-06 17:21:30,272 - logger_File -INFO - user clicked on login button
+2023-03-06 17:21:30,667 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:21:30,767 - logger_File -INFO - User click on Account option
+2023-03-06 17:21:31,291 - logger_File -INFO - user click on edit address option
+2023-03-06 17:21:32,100 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:21:37,234 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:22:45,969 - logger_File -INFO - User is on retail website
+2023-03-06 17:22:46,074 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:22:46,286 - logger_File -INFO - user entered email and password
+2023-03-06 17:22:46,355 - logger_File -INFO - user clicked on login button
+2023-03-06 17:22:46,782 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:22:46,881 - logger_File -INFO - User click on Account option
+2023-03-06 17:22:47,332 - logger_File -INFO - user click on edit address option
+2023-03-06 17:22:48,198 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:22:53,336 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:25:17,578 - logger_File -INFO - User is on retail website
+2023-03-06 17:25:17,689 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:25:17,890 - logger_File -INFO - user entered email and password
+2023-03-06 17:25:17,954 - logger_File -INFO - user clicked on login button
+2023-03-06 17:25:18,353 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:25:18,453 - logger_File -INFO - User click on Account option
+2023-03-06 17:25:18,912 - logger_File -INFO - user click on edit address option
+2023-03-06 17:25:19,756 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:25:24,882 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:27:58,551 - logger_File -INFO - User is on retail website
+2023-03-06 17:27:58,647 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:27:58,823 - logger_File -INFO - user entered email and password
+2023-03-06 17:27:58,883 - logger_File -INFO - user clicked on login button
+2023-03-06 17:27:59,523 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:27:59,617 - logger_File -INFO - User click on Account option
+2023-03-06 17:28:00,138 - logger_File -INFO - user click on edit address option
+2023-03-06 17:28:00,965 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:28:06,079 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:28:39,733 - logger_File -INFO - User is on retail website
+2023-03-06 17:28:39,851 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:28:40,044 - logger_File -INFO - user entered email and password
+2023-03-06 17:28:40,115 - logger_File -INFO - user clicked on login button
+2023-03-06 17:28:40,713 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:28:40,891 - logger_File -INFO - User click on Account option
+2023-03-06 17:28:41,172 - logger_File -INFO - user click on edit address option
+2023-03-06 17:29:29,387 - logger_File -INFO - User is on retail website
+2023-03-06 17:29:29,478 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:29:29,663 - logger_File -INFO - user entered email and password
+2023-03-06 17:29:29,723 - logger_File -INFO - user clicked on login button
+2023-03-06 17:29:30,121 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:29:30,215 - logger_File -INFO - User click on Account option
+2023-03-06 17:29:30,607 - logger_File -INFO - user click on edit address option
+2023-03-06 17:29:31,421 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:29:31,505 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:31:24,964 - logger_File -INFO - User is on retail website
+2023-03-06 17:31:25,063 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:31:25,251 - logger_File -INFO - user entered email and password
+2023-03-06 17:31:25,312 - logger_File -INFO - user clicked on login button
+2023-03-06 17:31:25,704 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:31:25,798 - logger_File -INFO - User click on Account option
+2023-03-06 17:31:26,196 - logger_File -INFO - user click on edit address option
+2023-03-06 17:31:27,013 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:31:32,154 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:32:43,020 - logger_File -INFO - User is on retail website
+2023-03-06 17:32:43,109 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:32:43,284 - logger_File -INFO - user entered email and password
+2023-03-06 17:32:43,342 - logger_File -INFO - user clicked on login button
+2023-03-06 17:32:43,794 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:32:43,887 - logger_File -INFO - User click on Account option
+2023-03-06 17:32:44,402 - logger_File -INFO - user click on edit address option
+2023-03-06 17:32:45,193 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:32:50,327 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:37:10,130 - logger_File -INFO - User is on retail website
+2023-03-06 17:37:10,223 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:37:10,401 - logger_File -INFO - user entered email and password
+2023-03-06 17:37:10,462 - logger_File -INFO - user clicked on login button
+2023-03-06 17:37:10,873 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:37:10,967 - logger_File -INFO - User click on Account option
+2023-03-06 17:37:11,409 - logger_File -INFO - user click on edit address option
+2023-03-06 17:37:12,215 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:37:17,325 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:38:00,583 - logger_File -INFO - User is on retail website
+2023-03-06 17:38:00,684 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:38:00,893 - logger_File -INFO - user entered email and password
+2023-03-06 17:38:00,963 - logger_File -INFO - user clicked on login button
+2023-03-06 17:38:01,362 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:38:01,464 - logger_File -INFO - User click on Account option
+2023-03-06 17:38:01,813 - logger_File -INFO - user click on edit address option
+2023-03-06 17:38:02,674 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:38:02,760 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:52:09,380 - logger_File -INFO - User is on retail website
+2023-03-06 17:52:09,494 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:52:09,720 - logger_File -INFO - user entered email and password
+2023-03-06 17:52:09,799 - logger_File -INFO - user clicked on login button
+2023-03-06 17:52:10,273 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:52:10,382 - logger_File -INFO - User click on Account option
+2023-03-06 17:52:10,913 - logger_File -INFO - user click on edit address option
+2023-03-06 17:52:11,871 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:52:11,991 - logger_File -INFO - User click update Your Address button
+2023-03-06 17:59:04,970 - logger_File -INFO - User is on retail website
+2023-03-06 17:59:05,163 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 17:59:05,443 - logger_File -INFO - user entered email and password
+2023-03-06 17:59:05,540 - logger_File -INFO - user clicked on login button
+2023-03-06 17:59:06,015 - logger_File -INFO - user is logged in into Account
+2023-03-06 17:59:06,165 - logger_File -INFO - User click on Account option
+2023-03-06 17:59:06,463 - logger_File -INFO - user click on edit address option
+2023-03-06 17:59:07,916 - logger_File -INFO - user fill new address form with below information
+2023-03-06 17:59:08,059 - logger_File -INFO - User click update Your Address button
+2023-03-06 18:02:31,624 - logger_File -INFO - User is on retail website
+2023-03-06 18:02:31,742 - logger_File -INFO - user clicked on Sign in Option
+2023-03-06 18:02:31,974 - logger_File -INFO - user entered email and password
+2023-03-06 18:02:32,051 - logger_File -INFO - user clicked on login button
+2023-03-06 18:02:32,459 - logger_File -INFO - user is logged in into Account
+2023-03-06 18:02:32,570 - logger_File -INFO - User click on Account option
+2023-03-06 18:02:33,040 - logger_File -INFO - user click on edit address option
+2023-03-06 18:02:34,097 - logger_File -INFO - user fill new address form with below information
+2023-03-06 18:02:34,222 - logger_File -INFO - User click update Your Address button
+2023-03-06 18:02:35,081 - logger_File -INFO - Address Updated Successfully

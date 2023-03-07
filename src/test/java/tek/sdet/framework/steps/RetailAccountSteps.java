@@ -195,10 +195,54 @@ public class RetailAccountSteps extends CommonUtility {
     	    	@Then("payment details should be removed")
     	    	public void paymentDetailsShouldbeRemoved() {
     	    	    //Thread.sleep(5000);
-    	    	    logger.info("The Card has been removed ");
+    	    	    logger.info("The Card has been removed");
     	    	}
     	    	
+    	    	// Verify user can Edit Address=======================================================================
+    	    	
+    	    	 @And ("User click on edit address option")
+    	    	 public void UserClickOnAddressOption() {
+    	    		 click(factory.accountPage().AddressEditBtn);
+    	    		 logger.info("user click on edit address option");
+    	    	 }
+    	    	 @And ("user fill new address form with below information")
+    	    	 public void UserFillNewAddressFormWithBelowInformation(DataTable DataTable) {
+    	    		 List < Map < String, String >> data = DataTable.asMaps(String.class, String.class); 
+    	    		 selectByVisibleText(factory.accountPage().countrydropDown, data.get(0).get("country"));
+    	    		 clearTextUsingSendKeys(factory.accountPage().fullNameInput);
+    	    		 sendText(factory.accountPage().fullNameInput, data.get(0).get("fullName"));
+    	    		 clearTextUsingSendKeys(factory.accountPage().phoneNumberInput);
+    	    		 sendText(factory.accountPage().phoneNumberInput, data.get(0).get("phoneNumber"));
+    	    		 clearTextUsingSendKeys(factory.accountPage().streetInput);
+    	    		 sendText(factory.accountPage().streetInput, data.get(0).get("streetAddress"));
+    	    		 clearTextUsingSendKeys(factory.accountPage().apartmentInput);
+    	    		 sendText(factory.accountPage().apartmentInput, data.get(0).get("apt"));
+    	    		 clearTextUsingSendKeys(factory.accountPage().cityInput);
+    	    		 sendText(factory.accountPage().cityInput, data.get(0).get("city"));
+    	    		 selectByVisibleText(factory.accountPage().account__address_state, data.get(0).get("state"));
+    	    		 clearTextUsingSendKeys(factory.accountPage().zipCodeInput);
+    	    		 sendText(factory.accountPage().zipCodeInput, data.get(0).get("zipCode"));
+    	    		 logger.info("user fill new address form with below information"); 
+    	    		 //Thread.sleep(5000);
+    	    	 }
+    	    	 
+    	    	 @And ("User click update Your Address button")
+    	    	 public void UserClickUpdateYourAddressButton() {
+    	    		 click(factory.accountPage().UpdateAddButton);
+    	    		 logger.info("User click update Your Address button");
+    	    		
+    	    	 }
+    	    	 @Then ("a message should be displayed {string}")
+    	    	 public void aMessageShouldBeDisplayed(String string) {
+    	    		 waitTillPresence(factory.accountPage().AddressUpdatedSuccessfully);
+    	    		 Assert.assertTrue(isElementDisplayed(factory.accountPage().AddressUpdatedSuccessfully));
+    	    		 logger.info("Address Updated Successfully");
+    	    	 }
+    	    	 
+    	    	    
     	    	}
+    	    	
+    	    	
 
     
 

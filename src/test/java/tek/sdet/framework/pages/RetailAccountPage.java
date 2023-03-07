@@ -137,6 +137,20 @@ public class RetailAccountPage extends BaseSetup {
 	
 	
 	
+	// Verify User can edit an Address added on account==========================================================
+	
+	@FindBy(xpath ="//button[contains(text(),'Edit')]")
+	public WebElement AddressEditBtn;
+	
+	@FindBy(xpath ="//button[@id='addressBtn']")
+	public WebElement UpdateAddButton;
+	
+	@FindBy(xpath ="//div[text()='Address Updated Successfully']")
+	public WebElement AddressUpdatedSuccessfully;
+	
+	
+	
+	
 	
 	
 	

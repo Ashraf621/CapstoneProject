@@ -53,3 +53,12 @@ Feature: Retail Account Page
       | United States | Harris   |  9162345885 | 4449 Marconi Ave |  10 | Sacramento | California |   95821 |
     And User click Add Your Address button
     Then a message should be displayed 'Address Added Successfully'
+
+  @EditAddress
+  Scenario: Verify User can edit an Address added on account
+    And User click on edit address option
+    And user fill new address form with below information
+      | country     | fullName | phoneNumber | streetAddress    | apt | city  | state | zipCode |
+      | Afghanistan | Ashraf   |  2792049955 | 3939 marconi Ave |   8 | Kabul | Kabul |   95823 |
+    And User click update Your Address button
+    Then a message should be displayed 'Address Updated Successfully'
