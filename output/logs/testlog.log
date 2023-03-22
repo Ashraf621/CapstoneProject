@@ -1505,3 +1505,854 @@
 2023-03-06 18:19:54,234 - logger_File -INFO - User click on Account option
 2023-03-06 18:19:54,559 - logger_File -INFO - User click on remove option of Address section
 2023-03-06 18:19:59,575 - logger_File -INFO - Then Address details should be removed
+2023-03-09 13:10:38,530 - logger_File -INFO - User is on retail website
+2023-03-09 13:10:38,742 - logger_File -INFO - user clicked on Sign in Option
+2023-03-09 13:10:38,879 - logger_File -INFO - user clicked on Create New Account button
+2023-03-09 13:10:39,508 - logger_File -INFO - user Filled the signUp information form
+2023-03-09 13:10:39,613 - logger_File -INFO - user clicked on SignUp button
+2023-03-09 13:11:33,462 - logger_File -INFO - User is on retail website
+2023-03-09 13:11:33,603 - logger_File -INFO - user clicked on Sign in Option
+2023-03-09 13:11:33,688 - logger_File -INFO - user clicked on Create New Account button
+2023-03-09 13:11:34,148 - logger_File -INFO - user Filled the signUp information form
+2023-03-09 13:11:34,231 - logger_File -INFO - user clicked on SignUp button
+2023-03-09 13:11:35,117 - logger_File -INFO - user is logged into account page
+2023-03-09 13:16:09,443 - logger_File -INFO - User is on retail website
+2023-03-09 13:16:09,560 - logger_File -INFO - user clicked on Sign in Option
+2023-03-09 13:16:09,643 - logger_File -INFO - user clicked on Create New Account button
+2023-03-09 13:16:10,071 - logger_File -INFO - user Filled the signUp information form
+2023-03-09 13:16:10,146 - logger_File -INFO - user clicked on SignUp button
+2023-03-09 13:16:11,080 - logger_File -INFO - user is logged into account page
+2023-03-09 13:20:10,166 - logger_File -INFO - User is on retail website
+2023-03-09 13:20:10,333 - logger_File -INFO - user clicked on Sign in Option
+2023-03-09 13:20:10,612 - logger_File -INFO - user entered email and password
+2023-03-09 13:20:10,701 - logger_File -INFO - user clicked on login button
+2023-03-09 13:20:20,957 - logger_File -INFO - User is on retail website
+2023-03-09 13:20:21,069 - logger_File -INFO - user clicked on Sign in Option
+2023-03-09 13:20:21,304 - logger_File -INFO - user entered email and password
+2023-03-09 13:20:21,380 - logger_File -INFO - user clicked on login button
+2023-03-09 13:20:21,739 - logger_File -INFO - user is logged in into Account
+2023-03-09 13:20:44,336 - logger_File -INFO - User is on retail website
+2023-03-09 13:20:44,455 - logger_File -INFO - user clicked on Sign in Option
+2023-03-09 13:20:44,683 - logger_File -INFO - user entered email and password
+2023-03-09 13:20:44,768 - logger_File -INFO - user clicked on login button
+2023-03-09 13:20:45,104 - logger_File -INFO - user is logged in into Account
+2023-03-14 10:32:23,741 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:32:23,879 - logger_File -INFO - user searched for the item
+2023-03-14 10:32:23,985 - logger_File -INFO - user clicked on search button
+2023-03-14 10:34:20,273 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:34:20,424 - logger_File -INFO - user searched for the item
+2023-03-14 10:34:20,725 - logger_File -INFO - user clicked on search button
+2023-03-14 10:36:25,209 - logger_File -INFO - User is on retail website
+2023-03-14 10:36:25,578 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 10:37:52,371 - logger_File -INFO - User is on retail website
+2023-03-14 10:37:52,743 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 10:37:52,963 - logger_File -INFO - user entered email and password
+2023-03-14 10:38:08,730 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:38:08,813 - logger_File -INFO - user searched for the item
+2023-03-14 10:38:09,099 - logger_File -INFO - user clicked on search button
+2023-03-14 10:39:26,837 - logger_File -INFO - User is on retail website
+2023-03-14 10:39:27,182 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 10:39:27,387 - logger_File -INFO - user entered email and password
+2023-03-14 10:39:27,673 - logger_File -INFO - user clicked on login button
+2023-03-14 10:39:28,013 - logger_File -INFO - user is logged in into Account
+2023-03-14 10:39:28,335 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:39:28,446 - logger_File -INFO - user searched for the item
+2023-03-14 10:39:28,763 - logger_File -INFO - user clicked on search button
+2023-03-14 10:41:58,158 - logger_File -INFO - User is on retail website
+2023-03-14 10:41:58,524 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 10:41:58,732 - logger_File -INFO - user entered email and password
+2023-03-14 10:41:59,010 - logger_File -INFO - user clicked on login button
+2023-03-14 10:41:59,304 - logger_File -INFO - user is logged in into Account
+2023-03-14 10:41:59,628 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:41:59,715 - logger_File -INFO - user searched for the item
+2023-03-14 10:41:59,974 - logger_File -INFO - user clicked on search button
+2023-03-14 10:42:00,815 - logger_File -INFO - user clicked one the item
+2023-03-14 10:42:02,027 - logger_File -INFO - user selected 2 for qty
+2023-03-14 10:42:02,306 - logger_File -INFO - user clicked on add to card button
+2023-03-14 10:43:42,401 - logger_File -INFO - User is on retail website
+2023-03-14 10:43:42,817 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 10:43:43,029 - logger_File -INFO - user entered email and password
+2023-03-14 10:43:43,314 - logger_File -INFO - user clicked on login button
+2023-03-14 10:43:43,561 - logger_File -INFO - user is logged in into Account
+2023-03-14 10:43:43,916 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:43:43,990 - logger_File -INFO - user searched for the item
+2023-03-14 10:43:44,260 - logger_File -INFO - user clicked on search button
+2023-03-14 10:44:37,308 - logger_File -INFO - User is on retail website
+2023-03-14 10:44:37,672 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 10:44:37,888 - logger_File -INFO - user entered email and password
+2023-03-14 10:44:38,180 - logger_File -INFO - user clicked on login button
+2023-03-14 10:44:38,765 - logger_File -INFO - user is logged in into Account
+2023-03-14 10:44:39,078 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:44:39,151 - logger_File -INFO - user searched for the item
+2023-03-14 10:44:39,417 - logger_File -INFO - user clicked on search button
+2023-03-14 10:46:08,700 - logger_File -INFO - User is on retail website
+2023-03-14 10:46:08,892 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 10:46:09,148 - logger_File -INFO - user entered email and password
+2023-03-14 10:46:09,280 - logger_File -INFO - user clicked on login button
+2023-03-14 10:46:09,776 - logger_File -INFO - user is logged in into Account
+2023-03-14 10:46:09,933 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:46:10,073 - logger_File -INFO - user searched for the item
+2023-03-14 10:46:10,193 - logger_File -INFO - user clicked on search button
+2023-03-14 10:47:10,400 - logger_File -INFO - User is on retail website
+2023-03-14 10:47:10,632 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 10:47:10,884 - logger_File -INFO - user entered email and password
+2023-03-14 10:47:11,019 - logger_File -INFO - user clicked on login button
+2023-03-14 10:47:11,561 - logger_File -INFO - user is logged in into Account
+2023-03-14 10:47:11,728 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:47:11,880 - logger_File -INFO - user searched for the item
+2023-03-14 10:47:12,014 - logger_File -INFO - user clicked on search button
+2023-03-14 10:48:14,612 - logger_File -INFO - User is on retail website
+2023-03-14 10:48:14,956 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 10:48:15,182 - logger_File -INFO - user entered email and password
+2023-03-14 10:48:15,477 - logger_File -INFO - user clicked on login button
+2023-03-14 10:48:15,745 - logger_File -INFO - user is logged in into Account
+2023-03-14 10:48:16,085 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:48:16,167 - logger_File -INFO - user searched for the item
+2023-03-14 10:48:16,428 - logger_File -INFO - user clicked on search button
+2023-03-14 10:51:02,948 - logger_File -INFO - User is on retail website
+2023-03-14 10:51:03,323 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 10:51:03,522 - logger_File -INFO - user entered email and password
+2023-03-14 10:51:03,808 - logger_File -INFO - user clicked on login button
+2023-03-14 10:51:04,095 - logger_File -INFO - user is logged in into Account
+2023-03-14 10:51:04,432 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 10:51:04,511 - logger_File -INFO - user searched for the item
+2023-03-14 10:51:04,767 - logger_File -INFO - user clicked on search button
+2023-03-14 20:54:29,759 - logger_File -INFO - User is on retail website
+2023-03-14 20:54:30,119 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 20:54:30,333 - logger_File -INFO - user entered email and password
+2023-03-14 20:54:30,624 - logger_File -INFO - user clicked on login button
+2023-03-14 20:54:30,896 - logger_File -INFO - user is logged in into Account
+2023-03-14 20:54:31,229 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 20:54:31,312 - logger_File -INFO - user searched for the item
+2023-03-14 20:54:31,575 - logger_File -INFO - user clicked on search button
+2023-03-14 21:04:42,721 - logger_File -INFO - User is on retail website
+2023-03-14 21:04:43,066 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 21:04:43,289 - logger_File -INFO - user entered email and password
+2023-03-14 21:04:43,566 - logger_File -INFO - user clicked on login button
+2023-03-14 21:04:43,866 - logger_File -INFO - user is logged in into Account
+2023-03-14 21:04:44,190 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 21:04:47,307 - logger_File -INFO - user searched for the item
+2023-03-14 21:04:50,620 - logger_File -INFO - user clicked on search button
+2023-03-14 21:06:50,620 - logger_File -INFO - User is on retail website
+2023-03-14 21:06:50,985 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 21:06:51,185 - logger_File -INFO - user entered email and password
+2023-03-14 21:06:51,454 - logger_File -INFO - user clicked on login button
+2023-03-14 21:06:51,741 - logger_File -INFO - user is logged in into Account
+2023-03-14 21:06:52,066 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 21:06:55,158 - logger_File -INFO - user searched for the item
+2023-03-14 21:06:58,446 - logger_File -INFO - user clicked on search button
+2023-03-14 21:07:01,742 - logger_File -INFO - user clicked one the item
+2023-03-14 21:08:07,412 - logger_File -INFO - User is on retail website
+2023-03-14 21:08:07,733 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 21:08:07,910 - logger_File -INFO - user entered email and password
+2023-03-14 21:08:08,185 - logger_File -INFO - user clicked on login button
+2023-03-14 21:08:08,509 - logger_File -INFO - user is logged in into Account
+2023-03-14 21:08:08,844 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 21:08:11,965 - logger_File -INFO - user searched for the item
+2023-03-14 21:08:15,243 - logger_File -INFO - user clicked on search button
+2023-03-14 21:08:18,546 - logger_File -INFO - user clicked one the item
+2023-03-14 21:09:24,981 - logger_File -INFO - User is on retail website
+2023-03-14 21:09:25,315 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 21:09:25,497 - logger_File -INFO - user entered email and password
+2023-03-14 21:09:25,767 - logger_File -INFO - user clicked on login button
+2023-03-14 21:09:26,005 - logger_File -INFO - user is logged in into Account
+2023-03-14 21:09:26,364 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 21:09:29,468 - logger_File -INFO - user searched for the item
+2023-03-14 21:09:32,756 - logger_File -INFO - user clicked on search button
+2023-03-14 21:09:36,054 - logger_File -INFO - user clicked one the item
+2023-03-14 21:11:11,791 - logger_File -INFO - User is on retail website
+2023-03-14 21:11:12,138 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 21:11:12,332 - logger_File -INFO - user entered email and password
+2023-03-14 21:11:12,610 - logger_File -INFO - user clicked on login button
+2023-03-14 21:11:12,827 - logger_File -INFO - user is logged in into Account
+2023-03-14 21:11:13,151 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 21:11:16,248 - logger_File -INFO - user searched for the item
+2023-03-14 21:11:19,540 - logger_File -INFO - user clicked on search button
+2023-03-14 21:11:22,862 - logger_File -INFO - user clicked one the item
+2023-03-14 21:14:55,859 - logger_File -INFO - User is on retail website
+2023-03-14 21:14:56,213 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 21:14:56,435 - logger_File -INFO - user entered email and password
+2023-03-14 21:14:56,711 - logger_File -INFO - user clicked on login button
+2023-03-14 21:14:56,979 - logger_File -INFO - user is logged in into Account
+2023-03-14 21:14:57,285 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 21:15:00,385 - logger_File -INFO - user searched for the item
+2023-03-14 21:15:03,684 - logger_File -INFO - user clicked on search button
+2023-03-14 21:15:06,981 - logger_File -INFO - user clicked one the item
+2023-03-14 21:17:33,496 - logger_File -INFO - User is on retail website
+2023-03-14 21:17:33,843 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 21:17:34,059 - logger_File -INFO - user entered email and password
+2023-03-14 21:17:34,339 - logger_File -INFO - user clicked on login button
+2023-03-14 21:17:34,574 - logger_File -INFO - user is logged in into Account
+2023-03-14 21:17:34,919 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 21:17:38,037 - logger_File -INFO - user searched for the item
+2023-03-14 21:17:41,331 - logger_File -INFO - user clicked on search button
+2023-03-14 21:17:44,643 - logger_File -INFO - user clicked one the item
+2023-03-14 21:19:56,762 - logger_File -INFO - User is on retail website
+2023-03-14 21:19:57,116 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 21:19:57,325 - logger_File -INFO - user entered email and password
+2023-03-14 21:19:57,603 - logger_File -INFO - user clicked on login button
+2023-03-14 21:19:57,836 - logger_File -INFO - user is logged in into Account
+2023-03-14 21:19:58,145 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 21:20:01,262 - logger_File -INFO - user searched for the item
+2023-03-14 21:20:04,574 - logger_File -INFO - user clicked on search button
+2023-03-14 21:20:07,846 - logger_File -INFO - user clicked one the item
+2023-03-14 21:20:11,137 - logger_File -INFO - user selected 2 for qty
+2023-03-14 21:20:11,431 - logger_File -INFO - user clicked on add to card button
+2023-03-14 21:21:57,189 - logger_File -INFO - User is on retail website
+2023-03-14 21:21:57,579 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 21:21:57,799 - logger_File -INFO - user entered email and password
+2023-03-14 21:21:58,078 - logger_File -INFO - user clicked on login button
+2023-03-14 21:21:58,298 - logger_File -INFO - user is logged in into Account
+2023-03-14 21:21:58,612 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 21:22:01,714 - logger_File -INFO - user searched for the item
+2023-03-14 21:22:05,018 - logger_File -INFO - user clicked on search button
+2023-03-14 21:22:08,322 - logger_File -INFO - user clicked one the item
+2023-03-14 21:22:11,628 - logger_File -INFO - user selected 2 for qty
+2023-03-14 21:22:11,930 - logger_File -INFO - user clicked on add to card button
+2023-03-14 21:22:14,990 - logger_File -INFO - the qty icon is changed
+2023-03-14 22:21:44,079 - logger_File -INFO - User is on retail website
+2023-03-14 22:21:44,468 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:21:44,656 - logger_File -INFO - user entered email and password
+2023-03-14 22:21:44,939 - logger_File -INFO - user clicked on login button
+2023-03-14 22:21:45,141 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:21:45,511 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-14 22:21:48,623 - logger_File -INFO - user searched for the item
+2023-03-14 22:21:51,935 - logger_File -INFO - user clicked on search button
+2023-03-14 22:24:05,118 - logger_File -INFO - User is on retail website
+2023-03-14 22:24:05,526 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:24:05,734 - logger_File -INFO - user entered email and password
+2023-03-14 22:24:06,013 - logger_File -INFO - user clicked on login button
+2023-03-14 22:24:06,194 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:24:06,502 - logger_File -INFO - User click on Cart option
+2023-03-14 22:24:06,788 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:24:07,076 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:24:07,949 - logger_File -INFO - user filled the address form
+2023-03-14 22:24:08,275 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:24:08,551 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-14 22:24:08,836 - logger_File -INFO - User fill Debit or credit card information
+2023-03-14 22:24:09,127 - logger_File -INFO - User click on Add your card button
+2023-03-14 22:24:09,405 - logger_File -INFO - User click on Place Your Order
+2023-03-14 22:30:20,422 - logger_File -INFO - User is on retail website
+2023-03-14 22:30:20,796 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:30:21,046 - logger_File -INFO - user entered email and password
+2023-03-14 22:30:21,337 - logger_File -INFO - user clicked on login button
+2023-03-14 22:30:21,680 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:30:21,984 - logger_File -INFO - User click on Cart option
+2023-03-14 22:30:22,288 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:30:22,573 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:30:23,396 - logger_File -INFO - user filled the address form
+2023-03-14 22:30:23,703 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:34:31,128 - logger_File -INFO - User is on retail website
+2023-03-14 22:34:31,521 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:34:31,734 - logger_File -INFO - user entered email and password
+2023-03-14 22:34:32,032 - logger_File -INFO - user clicked on login button
+2023-03-14 22:34:32,253 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:34:32,587 - logger_File -INFO - User click on Cart option
+2023-03-14 22:34:32,881 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:34:33,177 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:34:34,051 - logger_File -INFO - user filled the address form
+2023-03-14 22:34:34,376 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:36:53,010 - logger_File -INFO - User is on retail website
+2023-03-14 22:36:53,352 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:36:53,556 - logger_File -INFO - user entered email and password
+2023-03-14 22:36:53,823 - logger_File -INFO - user clicked on login button
+2023-03-14 22:36:54,017 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:36:54,336 - logger_File -INFO - User click on Cart option
+2023-03-14 22:36:54,616 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:36:54,900 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:37:00,854 - logger_File -INFO - user filled the address form
+2023-03-14 22:37:01,177 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:38:14,875 - logger_File -INFO - User is on retail website
+2023-03-14 22:38:15,228 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:38:15,444 - logger_File -INFO - user entered email and password
+2023-03-14 22:38:15,721 - logger_File -INFO - user clicked on login button
+2023-03-14 22:38:16,060 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:38:16,360 - logger_File -INFO - User click on Cart option
+2023-03-14 22:38:16,639 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:38:16,922 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:38:17,773 - logger_File -INFO - user filled the address form
+2023-03-14 22:38:18,088 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:40:13,190 - logger_File -INFO - User is on retail website
+2023-03-14 22:40:13,493 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:40:13,650 - logger_File -INFO - user entered email and password
+2023-03-14 22:40:13,897 - logger_File -INFO - user clicked on login button
+2023-03-14 22:40:14,658 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:40:14,916 - logger_File -INFO - User click on Cart option
+2023-03-14 22:40:15,169 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:40:15,427 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:40:16,077 - logger_File -INFO - user filled the address form
+2023-03-14 22:40:16,363 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:44:42,350 - logger_File -INFO - User is on retail website
+2023-03-14 22:44:42,660 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:44:42,806 - logger_File -INFO - user entered email and password
+2023-03-14 22:44:43,057 - logger_File -INFO - user clicked on login button
+2023-03-14 22:44:43,271 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:44:43,528 - logger_File -INFO - User click on Cart option
+2023-03-14 22:44:43,797 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:44:44,065 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:44:44,698 - logger_File -INFO - user filled the address form
+2023-03-14 22:44:44,982 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:44:45,237 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-14 22:44:50,482 - logger_File -INFO - User fill Debit or credit card information
+2023-03-14 22:44:50,730 - logger_File -INFO - User click on Add your card button
+2023-03-14 22:46:25,650 - logger_File -INFO - User is on retail website
+2023-03-14 22:46:25,935 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:46:26,085 - logger_File -INFO - user entered email and password
+2023-03-14 22:46:26,333 - logger_File -INFO - user clicked on login button
+2023-03-14 22:46:26,611 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:46:26,878 - logger_File -INFO - User click on Cart option
+2023-03-14 22:46:27,160 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:46:27,417 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:46:28,036 - logger_File -INFO - user filled the address form
+2023-03-14 22:46:28,317 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:48:52,572 - logger_File -INFO - User is on retail website
+2023-03-14 22:48:52,862 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:48:53,022 - logger_File -INFO - user entered email and password
+2023-03-14 22:48:53,272 - logger_File -INFO - user clicked on login button
+2023-03-14 22:48:53,549 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:48:53,808 - logger_File -INFO - User click on Cart option
+2023-03-14 22:48:54,071 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:48:54,331 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:48:54,995 - logger_File -INFO - user filled the address form
+2023-03-14 22:48:55,275 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:48:55,543 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-14 22:49:00,790 - logger_File -INFO - User fill Debit or credit card information
+2023-03-14 22:49:01,052 - logger_File -INFO - User click on Add your card button
+2023-03-14 22:50:31,818 - logger_File -INFO - User is on retail website
+2023-03-14 22:50:32,124 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:50:32,282 - logger_File -INFO - user entered email and password
+2023-03-14 22:50:32,529 - logger_File -INFO - user clicked on login button
+2023-03-14 22:50:32,754 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:50:33,016 - logger_File -INFO - User click on Cart option
+2023-03-14 22:50:33,276 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:50:33,544 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:50:34,214 - logger_File -INFO - user filled the address form
+2023-03-14 22:50:34,488 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:53:08,132 - logger_File -INFO - User is on retail website
+2023-03-14 22:53:08,429 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:53:08,581 - logger_File -INFO - user entered email and password
+2023-03-14 22:53:08,829 - logger_File -INFO - user clicked on login button
+2023-03-14 22:53:09,350 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:53:09,606 - logger_File -INFO - User click on Cart option
+2023-03-14 22:53:09,866 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:53:10,126 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:53:10,743 - logger_File -INFO - user filled the address form
+2023-03-14 22:53:11,014 - logger_File -INFO - User click Add Your Address button
+2023-03-14 22:59:13,535 - logger_File -INFO - User is on retail website
+2023-03-14 22:59:13,826 - logger_File -INFO - user clicked on Sign in Option
+2023-03-14 22:59:13,974 - logger_File -INFO - user entered email and password
+2023-03-14 22:59:14,219 - logger_File -INFO - user clicked on login button
+2023-03-14 22:59:14,460 - logger_File -INFO - user is logged in into Account
+2023-03-14 22:59:14,715 - logger_File -INFO - User click on Cart option
+2023-03-14 22:59:14,972 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-14 22:59:15,225 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-14 22:59:15,842 - logger_File -INFO - user filled the address form
+2023-03-14 22:59:16,114 - logger_File -INFO - User click Add Your Address button
+2023-03-15 13:49:12,742 - logger_File -INFO - User is on retail website
+2023-03-15 13:49:13,060 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 13:49:13,228 - logger_File -INFO - user entered email and password
+2023-03-15 13:49:13,481 - logger_File -INFO - user clicked on login button
+2023-03-15 13:49:13,649 - logger_File -INFO - user is logged in into Account
+2023-03-15 13:49:13,907 - logger_File -INFO - User click on Cart option
+2023-03-15 13:49:14,167 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-15 13:49:14,421 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-15 13:49:15,083 - logger_File -INFO - user filled the address form
+2023-03-15 13:50:01,289 - logger_File -INFO - User is on retail website
+2023-03-15 13:50:01,595 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 13:50:01,757 - logger_File -INFO - user entered email and password
+2023-03-15 13:50:02,009 - logger_File -INFO - user clicked on login button
+2023-03-15 13:50:02,233 - logger_File -INFO - user is logged in into Account
+2023-03-15 13:50:02,491 - logger_File -INFO - User click on Cart option
+2023-03-15 13:50:25,216 - logger_File -INFO - User is on retail website
+2023-03-15 13:50:25,553 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 13:50:25,729 - logger_File -INFO - user entered email and password
+2023-03-15 13:50:25,978 - logger_File -INFO - user clicked on login button
+2023-03-15 13:50:26,143 - logger_File -INFO - user is logged in into Account
+2023-03-15 13:50:26,403 - logger_File -INFO - User click on Cart option
+2023-03-15 13:59:07,275 - logger_File -INFO - User is on retail website
+2023-03-15 13:59:07,607 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 13:59:07,772 - logger_File -INFO - user entered email and password
+2023-03-15 13:59:08,028 - logger_File -INFO - user clicked on login button
+2023-03-15 13:59:08,208 - logger_File -INFO - user is logged in into Account
+2023-03-15 13:59:08,468 - logger_File -INFO - User click on Cart option
+2023-03-15 14:00:22,962 - logger_File -INFO - User is on retail website
+2023-03-15 14:00:23,293 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 14:00:23,498 - logger_File -INFO - user entered email and password
+2023-03-15 14:00:23,761 - logger_File -INFO - user clicked on login button
+2023-03-15 14:00:23,960 - logger_File -INFO - user is logged in into Account
+2023-03-15 14:00:24,232 - logger_File -INFO - User click on Cart option
+2023-03-15 14:00:24,495 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-15 14:00:24,754 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-15 14:00:25,548 - logger_File -INFO - ser fill new address form with below information
+2023-03-15 14:02:11,588 - logger_File -INFO - User is on retail website
+2023-03-15 14:02:11,879 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 14:02:12,045 - logger_File -INFO - user entered email and password
+2023-03-15 14:02:12,301 - logger_File -INFO - user clicked on login button
+2023-03-15 14:02:12,463 - logger_File -INFO - user is logged in into Account
+2023-03-15 14:02:12,722 - logger_File -INFO - User click on Cart option
+2023-03-15 14:02:12,987 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-15 14:02:13,246 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-15 14:02:14,021 - logger_File -INFO - ser fill new address form with below information
+2023-03-15 14:07:23,073 - logger_File -INFO - User is on retail website
+2023-03-15 14:07:23,390 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 14:07:23,562 - logger_File -INFO - user entered email and password
+2023-03-15 14:07:23,818 - logger_File -INFO - user clicked on login button
+2023-03-15 14:07:23,980 - logger_File -INFO - user is logged in into Account
+2023-03-15 14:07:24,237 - logger_File -INFO - User click on Cart option
+2023-03-15 14:07:24,498 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-15 14:07:57,388 - logger_File -INFO - User is on retail website
+2023-03-15 14:07:57,701 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 14:07:57,872 - logger_File -INFO - user entered email and password
+2023-03-15 14:07:58,132 - logger_File -INFO - user clicked on login button
+2023-03-15 14:07:58,327 - logger_File -INFO - user is logged in into Account
+2023-03-15 14:07:58,583 - logger_File -INFO - User click on Cart option
+2023-03-15 14:07:58,840 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-15 14:12:46,794 - logger_File -INFO - User is on retail website
+2023-03-15 14:12:47,093 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 14:12:47,257 - logger_File -INFO - user entered email and password
+2023-03-15 14:12:47,509 - logger_File -INFO - user clicked on login button
+2023-03-15 14:12:47,656 - logger_File -INFO - user is logged in into Account
+2023-03-15 14:12:47,913 - logger_File -INFO - User click on Cart option
+2023-03-15 14:12:48,167 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-15 14:12:48,424 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-15 14:12:49,049 - logger_File -INFO - ser fill new address form with below information
+2023-03-15 14:20:39,603 - logger_File -INFO - User is on retail website
+2023-03-15 14:20:39,918 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 14:20:40,080 - logger_File -INFO - user entered email and password
+2023-03-15 14:20:40,334 - logger_File -INFO - user clicked on login button
+2023-03-15 14:20:40,498 - logger_File -INFO - user is logged in into Account
+2023-03-15 14:20:40,753 - logger_File -INFO - User click on Cart option
+2023-03-15 14:20:41,019 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-15 14:20:41,300 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-15 14:20:42,118 - logger_File -INFO - ser fill new address form with below information
+2023-03-15 14:22:19,669 - logger_File -INFO - User is on retail website
+2023-03-15 14:22:19,975 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 14:22:20,138 - logger_File -INFO - user entered email and password
+2023-03-15 14:22:20,393 - logger_File -INFO - user clicked on login button
+2023-03-15 14:22:20,579 - logger_File -INFO - user is logged in into Account
+2023-03-15 14:22:20,838 - logger_File -INFO - User click on Cart option
+2023-03-15 14:22:21,095 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-15 14:22:21,348 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-15 14:22:21,990 - logger_File -INFO - ser fill new address form with below information
+2023-03-15 14:22:22,287 - logger_File -INFO - User click Add Your Address button
+2023-03-15 14:22:22,555 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-15 14:22:27,893 - logger_File -INFO - User fill Debit or credit card information
+2023-03-15 14:22:28,172 - logger_File -INFO - User click on Add your card button
+2023-03-15 14:26:39,781 - logger_File -INFO - User is on retail website
+2023-03-15 14:26:40,081 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 14:26:40,251 - logger_File -INFO - user entered email and password
+2023-03-15 14:26:40,504 - logger_File -INFO - user clicked on login button
+2023-03-15 14:26:40,670 - logger_File -INFO - user is logged in into Account
+2023-03-15 14:26:40,929 - logger_File -INFO - User click on Cart option
+2023-03-15 14:26:41,184 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-15 14:26:41,442 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-15 14:26:42,071 - logger_File -INFO - ser fill new address form with below information
+2023-03-15 14:26:42,386 - logger_File -INFO - User click Add Your Address button
+2023-03-15 14:26:42,651 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-15 14:26:47,995 - logger_File -INFO - User fill Debit or credit card information
+2023-03-15 14:26:48,283 - logger_File -INFO - User click on Add your card button
+2023-03-15 14:26:48,545 - logger_File -INFO - User click on Place Your Order
+2023-03-15 14:29:25,035 - logger_File -INFO - User is on retail website
+2023-03-15 14:29:25,336 - logger_File -INFO - user clicked on Sign in Option
+2023-03-15 14:29:25,517 - logger_File -INFO - user entered email and password
+2023-03-15 14:29:25,772 - logger_File -INFO - user clicked on login button
+2023-03-15 14:29:26,165 - logger_File -INFO - user is logged in into Account
+2023-03-15 14:29:26,424 - logger_File -INFO - User click on Cart option
+2023-03-15 14:29:26,679 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-15 14:29:26,937 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-15 14:29:27,636 - logger_File -INFO - ser fill new address form with below information
+2023-03-15 14:29:27,934 - logger_File -INFO - User click Add Your Address button
+2023-03-15 14:29:28,204 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-15 14:29:33,537 - logger_File -INFO - User fill Debit or credit card information
+2023-03-15 14:29:36,825 - logger_File -INFO - User click on Add your card button
+2023-03-15 14:29:37,087 - logger_File -INFO - User click on Place Your Order
+2023-03-22 14:18:49,750 - logger_File -INFO - User is on retail website
+2023-03-22 14:18:50,134 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:18:50,366 - logger_File -INFO - user entered email and password
+2023-03-22 14:18:50,650 - logger_File -INFO - user clicked on login button
+2023-03-22 14:18:50,851 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:18:51,132 - logger_File -INFO - User click on Cart option
+2023-03-22 14:19:52,423 - logger_File -INFO - User is on retail website
+2023-03-22 14:19:52,717 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:19:52,843 - logger_File -INFO - user entered email and password
+2023-03-22 14:19:53,087 - logger_File -INFO - user clicked on login button
+2023-03-22 14:19:53,263 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:19:53,538 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-22 14:19:56,605 - logger_File -INFO - user searched for the item
+2023-03-22 14:19:59,882 - logger_File -INFO - user clicked on search button
+2023-03-22 14:20:03,151 - logger_File -INFO - user clicked one the item
+2023-03-22 14:20:06,416 - logger_File -INFO - user selected 2 for qty
+2023-03-22 14:20:06,669 - logger_File -INFO - user clicked on add to card button
+2023-03-22 14:20:09,725 - logger_File -INFO - the qty icon is changed
+2023-03-22 14:24:24,931 - logger_File -INFO - User is on retail website
+2023-03-22 14:24:25,212 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:24:25,336 - logger_File -INFO - user entered email and password
+2023-03-22 14:24:25,583 - logger_File -INFO - user clicked on login button
+2023-03-22 14:24:25,748 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:24:25,998 - logger_File -INFO - User click on Cart option
+2023-03-22 14:24:26,241 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-22 14:24:26,492 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-22 14:24:27,053 - logger_File -INFO - ser fill new address form with below information
+2023-03-22 14:24:27,337 - logger_File -INFO - User click Add Your Address button
+2023-03-22 14:24:27,577 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-22 14:24:32,759 - logger_File -INFO - User fill Debit or credit card information
+2023-03-22 14:24:36,026 - logger_File -INFO - User click on Add your card button
+2023-03-22 14:24:36,278 - logger_File -INFO - User click on Place Your Order
+2023-03-22 14:26:49,122 - logger_File -INFO - User is on retail website
+2023-03-22 14:26:49,403 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:26:49,529 - logger_File -INFO - user entered email and password
+2023-03-22 14:26:49,771 - logger_File -INFO - user clicked on login button
+2023-03-22 14:26:49,941 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:26:50,202 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-22 14:26:53,276 - logger_File -INFO - user searched for the item
+2023-03-22 14:26:56,551 - logger_File -INFO - user clicked on search button
+2023-03-22 14:26:59,825 - logger_File -INFO - user clicked one the item
+2023-03-22 14:27:03,084 - logger_File -INFO - user selected 2 for qty
+2023-03-22 14:27:03,337 - logger_File -INFO - user clicked on add to card button
+2023-03-22 14:27:06,373 - logger_File -INFO - the qty icon is changed
+2023-03-22 14:29:10,372 - logger_File -INFO - User is on retail website
+2023-03-22 14:29:10,661 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:29:10,782 - logger_File -INFO - user entered email and password
+2023-03-22 14:29:11,027 - logger_File -INFO - user clicked on login button
+2023-03-22 14:29:11,184 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:29:11,432 - logger_File -INFO - User click on Cart option
+2023-03-22 14:29:11,679 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-22 14:29:11,931 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-22 14:29:12,479 - logger_File -INFO - ser fill new address form with below information
+2023-03-22 14:29:12,755 - logger_File -INFO - User click Add Your Address button
+2023-03-22 14:29:12,994 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-22 14:29:18,185 - logger_File -INFO - User fill Debit or credit card information
+2023-03-22 14:29:21,465 - logger_File -INFO - User click on Add your card button
+2023-03-22 14:30:08,286 - logger_File -INFO - User is on retail website
+2023-03-22 14:30:08,572 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:30:08,693 - logger_File -INFO - user entered email and password
+2023-03-22 14:30:08,939 - logger_File -INFO - user clicked on login button
+2023-03-22 14:30:09,211 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:30:09,461 - logger_File -INFO - User click on Cart option
+2023-03-22 14:30:09,703 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-22 14:30:09,954 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-22 14:30:10,510 - logger_File -INFO - ser fill new address form with below information
+2023-03-22 14:30:10,774 - logger_File -INFO - User click Add Your Address button
+2023-03-22 14:30:11,015 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-22 14:30:16,210 - logger_File -INFO - User fill Debit or credit card information
+2023-03-22 14:30:19,464 - logger_File -INFO - User click on Add your card button
+2023-03-22 14:30:19,699 - logger_File -INFO - User click on Place Your Order
+2023-03-22 14:31:49,800 - logger_File -INFO - User is on retail website
+2023-03-22 14:31:50,103 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:31:50,249 - logger_File -INFO - user entered email and password
+2023-03-22 14:31:50,502 - logger_File -INFO - user clicked on login button
+2023-03-22 14:31:50,676 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:31:50,930 - logger_File -INFO - User click on Cart option
+2023-03-22 14:31:51,178 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-22 14:31:51,432 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-22 14:31:52,023 - logger_File -INFO - ser fill new address form with below information
+2023-03-22 14:31:52,306 - logger_File -INFO - User click Add Your Address button
+2023-03-22 14:31:52,553 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-22 14:31:57,758 - logger_File -INFO - User fill Debit or credit card information
+2023-03-22 14:32:01,023 - logger_File -INFO - User click on Add your card button
+2023-03-22 14:32:01,261 - logger_File -INFO - User click on Place Your Order
+2023-03-22 14:35:28,031 - logger_File -INFO - User is on retail website
+2023-03-22 14:35:28,323 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:35:28,456 - logger_File -INFO - user entered email and password
+2023-03-22 14:35:28,706 - logger_File -INFO - user clicked on login button
+2023-03-22 14:35:28,871 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:35:29,128 - logger_File -INFO - User click on Cart option
+2023-03-22 14:35:29,386 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-22 14:35:29,641 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-22 14:35:30,219 - logger_File -INFO - ser fill new address form with below information
+2023-03-22 14:35:30,497 - logger_File -INFO - User click Add Your Address button
+2023-03-22 14:35:30,741 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-22 14:35:35,947 - logger_File -INFO - User fill Debit or credit card information
+2023-03-22 14:35:39,218 - logger_File -INFO - User click on Add your card button
+2023-03-22 14:36:18,829 - logger_File -INFO - User is on retail website
+2023-03-22 14:36:19,121 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:36:19,234 - logger_File -INFO - user entered email and password
+2023-03-22 14:36:19,481 - logger_File -INFO - user clicked on login button
+2023-03-22 14:36:19,636 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:36:19,887 - logger_File -INFO - User click on Cart option
+2023-03-22 14:36:20,131 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-22 14:36:20,381 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-22 14:36:20,926 - logger_File -INFO - ser fill new address form with below information
+2023-03-22 14:36:21,193 - logger_File -INFO - User click Add Your Address button
+2023-03-22 14:36:21,435 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-22 14:36:26,637 - logger_File -INFO - User fill Debit or credit card information
+2023-03-22 14:36:29,890 - logger_File -INFO - User click on Add your card button
+2023-03-22 14:36:30,141 - logger_File -INFO - User click on Place Your Order
+2023-03-22 14:46:15,308 - logger_File -INFO - User is on retail website
+2023-03-22 14:46:15,586 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:46:15,705 - logger_File -INFO - user entered email and password
+2023-03-22 14:46:15,947 - logger_File -INFO - user clicked on login button
+2023-03-22 14:46:16,073 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:46:16,319 - logger_File -INFO - User click on Cart option
+2023-03-22 14:46:42,184 - logger_File -INFO - User is on retail website
+2023-03-22 14:46:42,466 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:46:42,588 - logger_File -INFO - user entered email and password
+2023-03-22 14:46:42,829 - logger_File -INFO - user clicked on login button
+2023-03-22 14:46:42,994 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:46:43,255 - logger_File -INFO - user clicked on Smart Home catagory
+2023-03-22 14:46:46,332 - logger_File -INFO - user searched for the item
+2023-03-22 14:46:49,586 - logger_File -INFO - user clicked on search button
+2023-03-22 14:46:52,874 - logger_File -INFO - user clicked one the item
+2023-03-22 14:46:56,129 - logger_File -INFO - user selected 2 for qty
+2023-03-22 14:46:56,396 - logger_File -INFO - user clicked on add to card button
+2023-03-22 14:46:59,463 - logger_File -INFO - the qty icon is changed
+2023-03-22 14:47:20,661 - logger_File -INFO - User is on retail website
+2023-03-22 14:47:20,941 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 14:47:21,064 - logger_File -INFO - user entered email and password
+2023-03-22 14:47:21,311 - logger_File -INFO - user clicked on login button
+2023-03-22 14:47:21,529 - logger_File -INFO - user is logged in into Account
+2023-03-22 14:47:21,774 - logger_File -INFO - User click on Cart option
+2023-03-22 14:47:22,018 - logger_File -INFO - User click on Proceed to Checkout button
+2023-03-22 14:47:22,268 - logger_File -INFO - User click Add a new address link for shipping address
+2023-03-22 14:47:22,817 - logger_File -INFO - ser fill new address form with below information
+2023-03-22 14:47:23,090 - logger_File -INFO - User click Add Your Address button
+2023-03-22 14:47:23,334 - logger_File -INFO - User click Add a credit card or Debit Card for Payment method
+2023-03-22 14:47:28,537 - logger_File -INFO - User fill Debit or credit card information
+2023-03-22 14:47:31,809 - logger_File -INFO - User click on Add your card button
+2023-03-22 14:47:32,061 - logger_File -INFO - User click on Place Your Order
+2023-03-22 15:21:14,966 - logger_File -INFO - User is on retail website
+2023-03-22 15:21:15,283 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:21:15,423 - logger_File -INFO - user entered email and password
+2023-03-22 15:21:15,672 - logger_File -INFO - user clicked on login button
+2023-03-22 15:21:15,853 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:21:16,119 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:21:46,161 - logger_File -INFO - User is on retail website
+2023-03-22 15:21:46,458 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:21:46,599 - logger_File -INFO - user entered email and password
+2023-03-22 15:21:46,848 - logger_File -INFO - user clicked on login button
+2023-03-22 15:21:46,996 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:21:47,272 - logger_File -INFO - user clicked on catagory to change it
+2023-03-22 15:21:47,326 - logger_File -INFO - user searched for the item
+2023-03-22 15:21:47,568 - logger_File -INFO - user clicked on search button
+2023-03-22 15:21:47,808 - logger_File -INFO - user clicked one the item
+2023-03-22 15:21:51,097 - logger_File -INFO - user selected for qty
+2023-03-22 15:21:51,365 - logger_File -INFO - user clicked on add to card button
+2023-03-22 15:21:51,429 - logger_File -INFO - the qty icon is changed
+2023-03-22 15:22:24,652 - logger_File -INFO - User is on retail website
+2023-03-22 15:22:24,959 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:22:25,108 - logger_File -INFO - user entered email and password
+2023-03-22 15:22:25,357 - logger_File -INFO - user clicked on login button
+2023-03-22 15:22:25,512 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:22:25,769 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:22:26,018 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:22:26,272 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:22:26,882 - logger_File -INFO - user filled the address form
+2023-03-22 15:22:27,766 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:22:28,027 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:27:48,984 - logger_File -INFO - User is on retail website
+2023-03-22 15:27:49,280 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:27:49,426 - logger_File -INFO - user entered email and password
+2023-03-22 15:27:49,678 - logger_File -INFO - user clicked on login button
+2023-03-22 15:27:49,837 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:27:50,091 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:27:50,343 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:27:50,593 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:27:51,208 - logger_File -INFO - user filled the address form
+2023-03-22 15:27:52,076 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:27:52,337 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:29:32,493 - logger_File -INFO - User is on retail website
+2023-03-22 15:29:32,794 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:29:32,932 - logger_File -INFO - user entered email and password
+2023-03-22 15:29:33,186 - logger_File -INFO - user clicked on login button
+2023-03-22 15:29:33,360 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:29:33,617 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:29:33,871 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:29:34,126 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:29:34,802 - logger_File -INFO - user filled the address form
+2023-03-22 15:29:35,662 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:29:35,925 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:29:36,624 - logger_File -INFO - User entered the card information
+2023-03-22 15:29:37,562 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:29:40,841 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 15:34:41,932 - logger_File -INFO - User is on retail website
+2023-03-22 15:34:42,229 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:34:42,367 - logger_File -INFO - user entered email and password
+2023-03-22 15:34:42,617 - logger_File -INFO - user clicked on login button
+2023-03-22 15:34:42,794 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:34:43,052 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:34:43,322 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:34:43,575 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:34:44,194 - logger_File -INFO - user filled the address form
+2023-03-22 15:34:45,056 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:34:45,319 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:34:46,024 - logger_File -INFO - User entered the card information
+2023-03-22 15:34:46,890 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:34:50,160 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 15:36:47,426 - logger_File -INFO - User is on retail website
+2023-03-22 15:36:47,734 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:36:47,888 - logger_File -INFO - user entered email and password
+2023-03-22 15:36:48,136 - logger_File -INFO - user clicked on login button
+2023-03-22 15:36:48,326 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:36:48,583 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:36:48,835 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:36:49,091 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:36:49,726 - logger_File -INFO - user filled the address form
+2023-03-22 15:36:50,601 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:36:50,867 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:36:51,579 - logger_File -INFO - User entered the card information
+2023-03-22 15:36:52,464 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:36:55,734 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 15:41:23,578 - logger_File -INFO - User is on retail website
+2023-03-22 15:41:23,710 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:41:23,942 - logger_File -INFO - user entered email and password
+2023-03-22 15:41:24,033 - logger_File -INFO - user clicked on login button
+2023-03-22 15:41:24,365 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:41:24,464 - logger_File -INFO - user clicked on catagory to change it
+2023-03-22 15:41:24,571 - logger_File -INFO - user searched for the item
+2023-03-22 15:41:24,688 - logger_File -INFO - user clicked on search button
+2023-03-22 15:41:24,971 - logger_File -INFO - user clicked one the item
+2023-03-22 15:41:28,117 - logger_File -INFO - user selected for qty
+2023-03-22 15:41:28,234 - logger_File -INFO - user clicked on add to card button
+2023-03-22 15:41:28,561 - logger_File -INFO - the qty icon is changed
+2023-03-22 15:42:26,678 - logger_File -INFO - User is on retail website
+2023-03-22 15:42:26,816 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:42:27,055 - logger_File -INFO - user entered email and password
+2023-03-22 15:42:27,130 - logger_File -INFO - user clicked on login button
+2023-03-22 15:42:27,474 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:42:27,630 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:42:27,766 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:42:27,876 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:42:28,855 - logger_File -INFO - user filled the address form
+2023-03-22 15:42:29,741 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:42:29,868 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:42:30,508 - logger_File -INFO - User entered the card information
+2023-03-22 15:42:31,419 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:42:34,565 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 15:43:23,476 - logger_File -INFO - User is on retail website
+2023-03-22 15:43:23,604 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:43:23,834 - logger_File -INFO - user entered email and password
+2023-03-22 15:43:23,910 - logger_File -INFO - user clicked on login button
+2023-03-22 15:43:24,318 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:43:24,429 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:43:24,548 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:43:24,661 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:43:25,513 - logger_File -INFO - user filled the address form
+2023-03-22 15:43:26,359 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:43:26,459 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:43:27,062 - logger_File -INFO - User entered the card information
+2023-03-22 15:43:27,966 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:43:31,100 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 15:45:39,369 - logger_File -INFO - User is on retail website
+2023-03-22 15:45:39,497 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:45:39,722 - logger_File -INFO - user entered email and password
+2023-03-22 15:45:39,799 - logger_File -INFO - user clicked on login button
+2023-03-22 15:45:40,144 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:45:40,242 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:45:40,349 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:45:40,510 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:45:41,417 - logger_File -INFO - user filled the address form
+2023-03-22 15:45:42,298 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:45:42,410 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:45:43,001 - logger_File -INFO - User entered the card information
+2023-03-22 15:46:20,756 - logger_File -INFO - User is on retail website
+2023-03-22 15:46:20,886 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:46:21,108 - logger_File -INFO - user entered email and password
+2023-03-22 15:46:21,188 - logger_File -INFO - user clicked on login button
+2023-03-22 15:46:21,659 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:46:21,773 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:46:21,894 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:46:22,020 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:46:22,972 - logger_File -INFO - user filled the address form
+2023-03-22 15:46:23,856 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:46:24,005 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:46:24,669 - logger_File -INFO - User entered the card information
+2023-03-22 15:46:25,577 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:46:28,700 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 15:57:53,266 - logger_File -INFO - User is on retail website
+2023-03-22 15:57:53,398 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:57:53,626 - logger_File -INFO - user entered email and password
+2023-03-22 15:57:53,700 - logger_File -INFO - user clicked on login button
+2023-03-22 15:57:54,029 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:57:54,128 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:57:54,242 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:57:54,356 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:57:55,219 - logger_File -INFO - user filled the address form
+2023-03-22 15:57:56,058 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:57:56,155 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:57:56,684 - logger_File -INFO - User entered the card information
+2023-03-22 15:58:45,711 - logger_File -INFO - User is on retail website
+2023-03-22 15:58:45,864 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 15:58:46,096 - logger_File -INFO - user entered email and password
+2023-03-22 15:58:46,173 - logger_File -INFO - user clicked on login button
+2023-03-22 15:58:46,582 - logger_File -INFO - user is logged in into Account
+2023-03-22 15:58:46,715 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 15:58:46,831 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 15:58:46,939 - logger_File -INFO - user clicked on add new address link
+2023-03-22 15:58:47,772 - logger_File -INFO - user filled the address form
+2023-03-22 15:58:48,622 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:58:48,715 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 15:58:49,290 - logger_File -INFO - User entered the card information
+2023-03-22 15:58:50,250 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 15:58:53,387 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 16:02:10,803 - logger_File -INFO - User is on retail website
+2023-03-22 16:02:10,932 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 16:02:11,170 - logger_File -INFO - user entered email and password
+2023-03-22 16:02:11,246 - logger_File -INFO - user clicked on login button
+2023-03-22 16:02:11,591 - logger_File -INFO - user is logged in into Account
+2023-03-22 16:02:11,694 - logger_File -INFO - user clicked on catagory to change it
+2023-03-22 16:02:11,816 - logger_File -INFO - user searched for the item
+2023-03-22 16:02:11,904 - logger_File -INFO - user clicked on search button
+2023-03-22 16:02:12,209 - logger_File -INFO - user clicked one the item
+2023-03-22 16:02:15,351 - logger_File -INFO - user selected for qty
+2023-03-22 16:02:15,483 - logger_File -INFO - user clicked on add to card button
+2023-03-22 16:02:15,767 - logger_File -INFO - the qty icon is changed
+2023-03-22 16:02:45,166 - logger_File -INFO - User is on retail website
+2023-03-22 16:02:45,310 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 16:02:45,540 - logger_File -INFO - user entered email and password
+2023-03-22 16:02:45,621 - logger_File -INFO - user clicked on login button
+2023-03-22 16:02:46,015 - logger_File -INFO - user is logged in into Account
+2023-03-22 16:02:46,136 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 16:02:46,251 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 16:02:46,368 - logger_File -INFO - user clicked on add new address link
+2023-03-22 16:02:47,240 - logger_File -INFO - user filled the address form
+2023-03-22 16:02:48,087 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 16:02:48,189 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 16:02:48,798 - logger_File -INFO - User entered the card information
+2023-03-22 16:02:49,751 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 16:02:52,916 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 16:05:50,400 - logger_File -INFO - User is on retail website
+2023-03-22 16:05:50,541 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 16:05:50,770 - logger_File -INFO - user entered email and password
+2023-03-22 16:05:50,851 - logger_File -INFO - user clicked on login button
+2023-03-22 16:05:51,231 - logger_File -INFO - user is logged in into Account
+2023-03-22 16:05:51,354 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 16:05:51,474 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 16:05:51,582 - logger_File -INFO - user clicked on add new address link
+2023-03-22 16:05:52,535 - logger_File -INFO - user filled the address form
+2023-03-22 16:05:53,409 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 16:05:53,526 - logger_File -INFO - user clicked on add cart Btn
+2023-03-22 16:05:54,176 - logger_File -INFO - User entered the card information
+2023-03-22 16:05:55,078 - logger_File -INFO - User Clicked on cardButton
+2023-03-22 16:05:58,228 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 16:06:00,308 - logger_File -INFO - Order placed,thanks
+2023-03-22 16:15:57,361 - logger_File -INFO - User is on retail website
+2023-03-22 16:15:57,523 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 16:15:57,775 - logger_File -INFO - user entered email and password
+2023-03-22 16:15:57,871 - logger_File -INFO - user clicked on login button
+2023-03-22 16:15:58,263 - logger_File -INFO - user is logged in into Account
+2023-03-22 16:15:58,382 - logger_File -INFO - user clicked on catagory to change it
+2023-03-22 16:15:58,496 - logger_File -INFO - user searched for the item
+2023-03-22 16:15:58,621 - logger_File -INFO - user clicked on search button
+2023-03-22 16:15:58,936 - logger_File -INFO - user clicked one the item
+2023-03-22 16:16:02,088 - logger_File -INFO - user selected for qty
+2023-03-22 16:16:02,224 - logger_File -INFO - user clicked on add to card button
+2023-03-22 16:16:02,557 - logger_File -INFO - the qty icon is changed
+2023-03-22 16:16:02,712 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 16:16:02,858 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 16:16:02,999 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 16:17:02,293 - logger_File -INFO - User is on retail website
+2023-03-22 16:17:02,449 - logger_File -INFO - user clicked on Sign in Option
+2023-03-22 16:17:02,681 - logger_File -INFO - user entered email and password
+2023-03-22 16:17:02,780 - logger_File -INFO - user clicked on login button
+2023-03-22 16:17:03,151 - logger_File -INFO - user is logged in into Account
+2023-03-22 16:17:03,272 - logger_File -INFO - user clicked on catagory to change it
+2023-03-22 16:17:03,375 - logger_File -INFO - user searched for the item
+2023-03-22 16:17:03,509 - logger_File -INFO - user clicked on search button
+2023-03-22 16:17:03,828 - logger_File -INFO - user clicked one the item
+2023-03-22 16:17:06,989 - logger_File -INFO - user selected for qty
+2023-03-22 16:17:07,097 - logger_File -INFO - user clicked on add to card button
+2023-03-22 16:17:07,400 - logger_File -INFO - the qty icon is changed
+2023-03-22 16:17:07,534 - logger_File -INFO - user clicked on add to card option 
+2023-03-22 16:17:07,651 - logger_File -INFO - user clicked on proceedBtn
+2023-03-22 16:17:07,763 - logger_File -INFO - User Clicked on place order Btn
+2023-03-22 16:17:09,881 - logger_File -INFO - Order placed,thanks
